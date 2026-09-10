@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Node (jika nanti pakai build tool / live-server via npm)
+node_modules/
+npm-debug.log*
+
+# Env / local files
+.env
+*.local
